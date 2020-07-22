@@ -10,6 +10,8 @@
 
 [Reference-Noise Compensation for P2P Links](https://research.nvidia.com/sites/default/files/pubs/2020-02_Reference-Noise-Compensation-Scheme//09063140.pdf)
 
+[Die-Die Interconnect- Facebook(2020)](https://146a55aca6f00848c565-a7635525d40ac1c70300198708936b4e.ssl.cf1.rackcdn.com/images/ff0733c8210eabb92fc38fbba81c0fa9bcf7696d.pdf)
+
 ## Carbon Nanotubes
 
 [Lab to Factory News(2020)](http://news.mit.edu/2020/carbon-nanotube-transistors-factory-0601)
